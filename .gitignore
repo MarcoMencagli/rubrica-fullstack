@@ -1,0 +1,14 @@
+# Symfony
+/backend-symfony/var/
+/backend-symfony/vendor/
+/backend-symfony/.env.local
+/backend-symfony/.DS_Store
+
+# Node
+/frontend-react/node_modules/
+/frontend-react/.env
+/frontend-react/.DS_Store
+
+# Sistema
+.DS_Store
+.env.local
